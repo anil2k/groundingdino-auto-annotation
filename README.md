@@ -9,7 +9,7 @@ GroundingDino Auto Annotation is a computer vision project aimed at automating t
 ### Features
 
 - Automated object detection and annotation.
-- Supports multiple object detection models.
+- Supports multiple object detection.
 - Export annotations in Pascal VOC XML format.
 - Compatible with various image datasets.
 
@@ -26,4 +26,4 @@ To install GroundingDino Auto Annotation, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/groundingdino-auto-annotation.git
+   git clone https://github.com/anil2k/groundingdino-auto-annotation.git
