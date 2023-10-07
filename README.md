@@ -1,6 +1,6 @@
 # GroundingDino Auto Annotation
 
-![Project Logo](path_to_project_logo.png) <!-- Optional: Include a logo or illustration of your project -->
+![Project Logo](ppe_annotated_image.jpg) <!-- Optional: Include a logo or illustration of your project -->
 
 ## Overview
 
@@ -10,17 +10,12 @@ GroundingDino Auto Annotation is a computer vision project aimed at automating t
 
 - Automated object detection and annotation.
 - Supports multiple object detection models.
-- Export annotations in Pascal VOC format.
-- Easy-to-use command-line interface (CLI).
+- Export annotations in Pascal VOC XML format.
 - Compatible with various image datasets.
 
 ## Table of Contents
 
 1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Supported Object Detection Models](#supported-object-detection-models)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Installation
 
